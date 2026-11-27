@@ -1,0 +1,23 @@
+{
+  "name": "editor-ia",
+  "version": "1.0.0",
+  "description": "- **BRUTOS/** – material en bruto original - **REFERENCIAS/** – material de referencia - **EXPORTADOS/** – resultados finales exportados - **TEMPORALES/** – archivos de trabajo; se vacía al terminar cada trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eylinhelen959-dotcom/editor-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eylinhelen959-dotcom/editor-ia/issues"
+  },
+  "homepage": "https://github.com/eylinhelen959-dotcom/editor-ia#readme",
+  "dependencies": {
+    "hyperframes": "0.9.49"
+  }
+}
